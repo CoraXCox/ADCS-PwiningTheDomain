@@ -1,3 +1,0 @@
-Active Directory Certificate Services (AD CS) is a crucial component of enterprise security infrastructure, providing services for public key cryptography. 
-
-However, misconfigurations and vulnerabilities within AD CS can be exploited for domain escalation, persistence, and certificate theft. These exploits leverage weaknesses in certificate templates, enrollment services, access control lists (ACLs), and other AD CS components.
